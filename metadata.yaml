@@ -1,0 +1,28 @@
+_repo: Two-American-Boys-in-the-War-Zone_62747
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Levi Worthington
+    aliases:
+    - Green, L. W.
+    - Green, L. Worthington
+    birthdate: 1858
+    gutenberg_agent_id: '52100'
+    url: http://www.gutenberg.org/2009/agents/52100
+description: ''
+gutenberg_issued: '2020-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62747'
+  lccn: '15021627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Russia -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Russia -- Juvenile fiction'
+- GITenberg
+title: Two American Boys in the War Zone
+url: http://www.gutenberg.org/ebooks/62747
